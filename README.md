@@ -1,8 +1,6 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Heroes of Pymoli
 
 ## Background
-
-## Heroes of Pymoli
 
 ![Fantasy](Screenshots/Fantasy.png)
 
